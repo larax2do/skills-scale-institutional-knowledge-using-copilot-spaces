@@ -18,6 +18,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Initial UX research plan (if applicable, coordinated with UX Designer)
+- Documentation scope (coordinated with Technical Writer)
+- Infrastructure requirements assessment (coordinated with DevOps Engineer)
 
 ## Project One-pager Template
 - Project name:
@@ -35,6 +38,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Identify Scrum Master for agile facilitation
+- [ ] Assess need for UX Designer involvement
+- [ ] Confirm Technical Writer availability for documentation
+- [ ] Engage DevOps Engineer for infrastructure planning
 
 ## Decision Gate
 Move to planning when:
